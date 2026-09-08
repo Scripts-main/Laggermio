@@ -1,20 +1,5 @@
 -- ═══════════════════════════════════════════════════════════════
---  TITAN HUB LAGGER
---  Modern minimalist UI with Image Asset & No Intro
---  All original mechanics preserved
--- ═══════════════════════════════════════════════════════════════
-
---[[
-========================================
-
-╔════════════════════════╗
-║          Cypher Spectre ║ EnvSight      ║
-╚════════════════════════╝
-Script Deobfuscated by Cypher Spectre
-Version: EnvSight
-Author on Discord / TikTok:
-@roman666cabj
-https://discord.gg/b8QsvrMCNq
+--  VORTEX.vs LAGGER
 
 ========================================
 ]]
